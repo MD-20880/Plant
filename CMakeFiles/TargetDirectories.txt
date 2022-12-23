@@ -1,0 +1,3 @@
+E:/Repos/RedNoise/CMakeFiles/RedNoise.dir
+E:/Repos/RedNoise/CMakeFiles/ALL_BUILD.dir
+E:/Repos/RedNoise/CMakeFiles/ZERO_CHECK.dir

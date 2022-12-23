@@ -19,6 +19,8 @@ set(CMAKE_CXX_STANDARD 14)
 # Note, we do this for glm because it's a header only library and because we shipped it with the project
 # normally you would use find_package(<package_name>) for libraries with actual objects
 set(GLM_INCLUDE_DIRS libs/glm-0.9.7.2)
+set(SDL2_INCLUDE_DIRS libs/SDL2-2.26.1)
+set(SDL2_LIBRARIES libs/SDL2-2.26.1/lib/x64)
 
 find_package(SDL2 REQUIRED)
 
